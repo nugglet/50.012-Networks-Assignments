@@ -1,0 +1,4 @@
+In this lab, you will be writing code to implement the “Selective Repeat (SR)” protocol for achieving
+reliable data transfer. 
+It will be a fun exercise to turn what you just learned from class into actual
+implementation!
